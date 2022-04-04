@@ -8,3 +8,4 @@ complete message into an output text file. The program can also
 view any mad lib text file, and display it in the console.
 
 Create Mad Lib Example:
+![](/Images_README/Create Mad Lib Menu.png)
