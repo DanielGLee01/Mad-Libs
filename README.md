@@ -15,3 +15,7 @@ view any mad lib text file, and display it in the console.
 
 ## Quit Mad Lib Example:
 ![](/Images_README/Quit_Mad_Lib_Menu.PNG)
+
+The menu is not case sensitive, so either an uppercase or 
+lowercase C, V and Q work. If the user inputs any other letter,
+the program will prompt the user again to choose a valid option.
