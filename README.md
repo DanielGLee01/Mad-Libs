@@ -9,3 +9,6 @@ view any mad lib text file, and display it in the console.
 
 ## Create Mad Lib Example:
 ![](/Images_README/Create_Mad_Lib_Menu.PNG)
+
+## View Mad Lib Example:
+![](/Images_README/View_Mad_Lib_Menu.PNG)
