@@ -12,3 +12,6 @@ view any mad lib text file, and display it in the console.
 
 ## View Mad Lib Example:
 ![](/Images_README/View_Mad_Lib_Menu.PNG)
+
+## Quit Mad Lib Example:
+![](/Images_README/Quit_Mad_Lib_Menu.PNG)
